@@ -1,5 +1,5 @@
 count=l0 
-while count>=1 do 
+while count<=10 do 
   puts count
   count-=1
  
